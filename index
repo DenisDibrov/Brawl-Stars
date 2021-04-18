@@ -1,3 +1,19 @@
 <html>
-<h1> Блог о весенних каникулах </h1>
+     <header style="background-color:black">
+<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BA%D0%B0%D1%82%D1%80%D0%B0%D1%81" style="color:white">Дополнительная информация</a>
+    </header>
+    <h1 style="text-align:center; color:black; background-color:green">Все про Алькатрас</h1>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alcatraz_Island.jpg/1024px-Alcatraz_Island.jpg" height="550px"/>
+   <p style="background-color:orange"> С ноября 1969 по июнь 1971 года остров был оккупирован группой индейцев из Сан-Франциско, которые были частью волны активизма коренных американцев по всей территории США, и в 1970-х годах прошли массовые акции протеста. В 1972 году Алькатрас стал частью национальной рекреационной зоны и в 1986 году получил статус национального исторического памятника.</p>
+
+<p style="background-color:orange"> Территория острова использовалась как защитный форт, позже как военная тюрьма, а затем как сверхзащищённая тюрьма для особо опасных преступников и тех, кто совершал попытки побега из предыдущих мест заключения.</p>
+
+<p style="background-color:orange"> Сегодня управление объектами острова осуществляется Службой национальных парков в рамках открытой для экскурсий Национальной зоны отдыха «Золотые ворота». Туристы могут добраться до острова на пароме менее чем за 15 минут от пирса 33, расположенного между зданием паромного сообщения Сан-Франциско и Рыбацкой пристани Сан-Франциско. Официальный поставщик паромов на остров и с острова — компания Hornblower Cruises and Events, действующая под названием Alcatraz Cruises. </p>
+
+<h1 style="text-align:center; color:black; background-color:green">Вид на тюрьму из внутреннего двора</h1> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Alcatraz_court.jpg"/>
+
+<h1 style="text-align:center; color:black; background-color:green">Расположение</h1>
+<p style="color:black"> Алькатрас расположен в стране США, штат Калифорния, округ Сан-Франциско. </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Map_of_Alcatraz.png" height="500px"/>
 </html>
