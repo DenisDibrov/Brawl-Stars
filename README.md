@@ -1,9 +1,8 @@
 <html>
     <head>
-<title>
-        <link rel="stylesheet" 
-              href="style.css">
-              </title>
+<title>...<title>
+        <link rel="stylesheet" href="style.css"/>
+              
         </head>
         
         <body>
